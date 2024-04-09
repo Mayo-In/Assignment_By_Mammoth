@@ -1,0 +1,104 @@
+04/05/2024 11:15:07 AM: INFO: **********URL Launch***********
+04/05/2024 11:15:07 AM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 11:19:28 AM: INFO: **********URL Launch***********
+04/05/2024 11:19:28 AM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 11:21:43 AM: INFO: **********URL Launch***********
+04/05/2024 11:21:43 AM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 11:34:21 AM: INFO: **********URL Launch***********
+04/05/2024 11:34:21 AM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 11:34:28 AM: ERROR: Fail: Failed to launch the URL.
+04/05/2024 11:37:39 AM: INFO: **********URL Launch***********
+04/05/2024 11:37:39 AM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 11:37:45 AM: INFO: Pass: Successfully launched the URL.
+04/05/2024 11:58:29 AM: INFO: **********URL Launch***********
+04/05/2024 11:58:29 AM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 11:58:35 AM: INFO: Pass: Successfully launched the URL.
+04/05/2024 11:58:37 AM: INFO: **********Login Test***********
+04/05/2024 11:58:37 AM: INFO: Test_002 : Login into the application
+04/05/2024 11:58:45 AM: ERROR: Fail: Failed to log into the application.
+04/05/2024 12:00:30 PM: INFO: **********URL Launch***********
+04/05/2024 12:00:30 PM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 12:00:36 PM: INFO: Pass: Successfully launched the URL.
+04/05/2024 12:00:38 PM: INFO: **********Login Test***********
+04/05/2024 12:00:38 PM: INFO: Test_002 : Login into the application
+04/05/2024 12:00:48 PM: ERROR: Fail: Failed to log into the application.
+04/05/2024 12:05:06 PM: INFO: **********URL Launch***********
+04/05/2024 12:05:06 PM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 12:05:13 PM: INFO: Pass: Successfully launched the URL.
+04/05/2024 12:05:15 PM: INFO: **********Login Test***********
+04/05/2024 12:05:15 PM: INFO: Test_002 : Login into the application
+04/05/2024 12:05:48 PM: INFO: **********URL Launch***********
+04/05/2024 12:05:48 PM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 12:05:54 PM: INFO: Pass: Successfully launched the URL.
+04/05/2024 12:05:56 PM: INFO: **********Login Test***********
+04/05/2024 12:05:56 PM: INFO: Test_002 : Login into the application
+04/05/2024 12:06:39 PM: INFO: **********URL Launch***********
+04/05/2024 12:06:39 PM: INFO: Test_001 : Launching the browser and URL
+04/05/2024 12:06:46 PM: INFO: Pass: Successfully launched the URL.
+04/05/2024 12:06:48 PM: INFO: **********Login Test***********
+04/05/2024 12:06:48 PM: INFO: Test_002 : Login into the application
+04/05/2024 12:06:57 PM: INFO: Pass: Successfully logged into the application.
+04/09/2024 06:18:23 PM: INFO: *********** Login Function ***********
+04/09/2024 06:18:23 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:18:34 PM: ERROR: Fail: Failed to login into the Application.
+04/09/2024 06:19:58 PM: INFO: *********** Login Function ***********
+04/09/2024 06:19:58 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:20:07 PM: INFO: *********** Navigate to the Data Set ***********
+04/09/2024 06:20:07 PM: INFO: Task : Navigate to the created Test Data Set Project.
+04/09/2024 06:23:42 PM: INFO: *********** Login Function ***********
+04/09/2024 06:23:42 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:23:52 PM: INFO: *********** Navigate to the Data Set ***********
+04/09/2024 06:23:52 PM: INFO: Task : Navigate to the created Test Data Set Project.
+04/09/2024 06:24:26 PM: INFO: *********** Apply Filter to the Data Set ***********
+04/09/2024 06:24:26 PM: INFO: Task : Apply required filter to the created Test Data Set Project.
+04/09/2024 06:31:37 PM: INFO: *********** Login Function ***********
+04/09/2024 06:31:37 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:31:45 PM: INFO: Pass: Successfully Logged into the Application.
+04/09/2024 06:31:45 PM: INFO: *********** Navigate to the Data Set ***********
+04/09/2024 06:31:45 PM: INFO: Task : Navigate to the created Test Data Set Project.
+04/09/2024 06:32:18 PM: INFO: Pass: Successfully Navigated to the Test Data Set.
+04/09/2024 06:32:18 PM: INFO: *********** Apply Filter to the Data Set ***********
+04/09/2024 06:32:18 PM: INFO: Task : Apply required filter to the created Test Data Set Project.
+04/09/2024 06:32:59 PM: INFO: Pass: Successfully applied filter on the Data Set.
+04/09/2024 06:32:59 PM: INFO: *********** Get Top 3 selling Cashiers ***********
+04/09/2024 06:32:59 PM: INFO: Task : Get top 3 Cashier names who sold maximum quantities of items.
+04/09/2024 06:37:52 PM: INFO: *********** Login Function ***********
+04/09/2024 06:37:52 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:38:01 PM: INFO: Pass: Successfully Logged into the Application.
+04/09/2024 06:38:01 PM: INFO: *********** Navigate to the Data Set ***********
+04/09/2024 06:38:01 PM: INFO: Task : Navigate to the created Test Data Set Project.
+04/09/2024 06:38:34 PM: INFO: Pass: Successfully Navigated to the Test Data Set.
+04/09/2024 06:38:34 PM: INFO: *********** Apply Filter to the Data Set ***********
+04/09/2024 06:38:34 PM: INFO: Task : Apply required filter to the created Test Data Set Project.
+04/09/2024 06:39:14 PM: INFO: Pass: Successfully applied filter on the Data Set.
+04/09/2024 06:39:14 PM: INFO: *********** Get Top 3 selling Cashiers ***********
+04/09/2024 06:39:14 PM: INFO: Task : Get top 3 Cashier names who sold maximum quantities of items.
+04/09/2024 06:43:13 PM: INFO: *********** Login Function ***********
+04/09/2024 06:43:13 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:43:21 PM: ERROR: Fail: Failed to login into the Application.
+04/09/2024 06:43:54 PM: INFO: *********** Login Function ***********
+04/09/2024 06:43:54 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:44:02 PM: ERROR: Fail: Failed to login into the Application.
+04/09/2024 06:44:55 PM: INFO: *********** Login Function ***********
+04/09/2024 06:44:55 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:45:13 PM: ERROR: Fail: Failed to login into the Application.
+04/09/2024 06:46:15 PM: INFO: *********** Login Function ***********
+04/09/2024 06:46:15 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:46:33 PM: INFO: *********** Navigate to the Data Set ***********
+04/09/2024 06:46:33 PM: INFO: Task : Navigate to the created Test Data Set Project.
+04/09/2024 06:47:04 PM: INFO: *********** Apply Filter to the Data Set ***********
+04/09/2024 06:47:04 PM: INFO: Task : Apply required filter to the created Test Data Set Project.
+04/09/2024 06:47:44 PM: INFO: Pass: Successfully applied filter on the Data Set.
+04/09/2024 06:47:44 PM: INFO: *********** Get Top 3 selling Cashiers ***********
+04/09/2024 06:47:44 PM: INFO: Task : Get top 3 Cashier names who sold maximum quantities of items.
+04/09/2024 06:50:24 PM: INFO: *********** Login Function ***********
+04/09/2024 06:50:24 PM: INFO: Task : Login in to the Test Application
+04/09/2024 06:50:42 PM: INFO: Pass: Successfully Logged into the Application.
+04/09/2024 06:50:42 PM: INFO: *********** Navigate to the Data Set ***********
+04/09/2024 06:50:42 PM: INFO: Task : Navigate to the created Test Data Set Project.
+04/09/2024 06:50:58 PM: INFO: Pass: Successfully Navigated to the Test Data Set.
+04/09/2024 06:50:58 PM: INFO: *********** Apply Filter to the Data Set ***********
+04/09/2024 06:50:58 PM: INFO: Task : Apply required filter to the created Test Data Set Project.
+04/09/2024 06:51:20 PM: INFO: Pass: Successfully applied filter on the Data Set.
+04/09/2024 06:51:20 PM: INFO: *********** Get Top 3 selling Cashiers ***********
+04/09/2024 06:51:20 PM: INFO: Task : Get top 3 Cashier names who sold maximum quantities of items.
