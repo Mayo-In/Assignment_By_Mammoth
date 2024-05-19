@@ -1,6 +1,6 @@
 This is a project I worked on for Mammoth Analytics - https://mammoth.io/
 
-Problem Statement: Mammoth Analytics works on the data for food chain businesses. I was tasked to automate the process of accessing the test data and filtering and sorting it in a such way that we can get the top sales by quantity.
+Problem Statement: Mammoth Analytics works on the data for food chain businesses. I was assigned to automate the process of accessing the test data and filtering and sorting it in a such way that we can get the top sales by quantity.
 I used Selenium using Python and completed the above task
 
 Screen Recording for Task 
